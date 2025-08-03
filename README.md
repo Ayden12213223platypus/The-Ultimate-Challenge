@@ -7,3 +7,4 @@ _Talisman_: https://github.com/SpectralPack/Talisman/tree/omeganum-optimization 
 <br>
 **Credits**: <br>
 _Challenger Examples_: https://github.com/OOkayOak/Challenger-Examples
+_Challenger Plus_: https://github.com/Makson6327/ChallengerPlus
