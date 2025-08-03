@@ -1,0 +1,10 @@
+{
+	"id": "UltCha",
+	"name": "The Ultimate Challenge",
+	"display_name": "The Ultimate Challenge",
+	"author": ["Ayden","Many other mod creators"],
+	"description": "Adds every challenge from every mod that has challenges.",
+	"prefix": "ultcha",
+	"main_file": "main.lua",
+	"version": "1.0.0"
+}
